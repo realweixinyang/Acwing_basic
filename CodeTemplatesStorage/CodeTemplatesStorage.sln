@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeTemplatesStorage.Server", "CodeTemplatesStorage.Server\CodeTemplatesStorage.Server.csproj", "{EF27D66D-D417-4F2C-B468-7C8469CF4261}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "codetemplatesstorage.client", "codetemplatesstorage.client\codetemplatesstorage.client.esproj", "{AFE6ACFE-FDCC-4F3B-BCE5-709E04BD71C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF27D66D-D417-4F2C-B468-7C8469CF4261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF27D66D-D417-4F2C-B468-7C8469CF4261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF27D66D-D417-4F2C-B468-7C8469CF4261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF27D66D-D417-4F2C-B468-7C8469CF4261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE6ACFE-FDCC-4F3B-BCE5-709E04BD71C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE6ACFE-FDCC-4F3B-BCE5-709E04BD71C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE6ACFE-FDCC-4F3B-BCE5-709E04BD71C0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AFE6ACFE-FDCC-4F3B-BCE5-709E04BD71C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE6ACFE-FDCC-4F3B-BCE5-709E04BD71C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE6ACFE-FDCC-4F3B-BCE5-709E04BD71C0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F24D0C2-BC44-4F83-BCEA-C1B94B320A4B}
+	EndGlobalSection
+EndGlobal
