@@ -1,0 +1,5 @@
+CodeTemplatesStorage/.vs
+CodeTemplatesStorage/codetemplatesstorage.client/node_modules
+CodeTemplatesStorage/codetemplatesstorage.client/obj
+CodeTemplatesStorage/CodeTemplatesStorage.Server/bin
+CodeTemplatesStorage/CodeTemplatesStorage.Server/obj
